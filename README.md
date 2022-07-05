@@ -4,7 +4,7 @@ Software Engineer & Open-Source contributor.
 
 I love exploring and contributing to open-source projects daily, reporting bugs, and investigating answers to WH(What/Why) questions, ideas, and problems.
 
-![](https://github-readme-stats.vercel.app/api?username=msudgh&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=msudgh&show_icons=true&theme=merko)
 
 ----
 
