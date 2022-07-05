@@ -1,4 +1,4 @@
-# Hello world, Welcome to Masoud's Repo
+# Hello world, Welcome to My Repo
 
 I'm Software Engineer & Open-Source contributer.
 
@@ -8,6 +8,8 @@ Please keep in touch through Email/Linkedin for business matters and QA around p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msudgh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mcrunix) 
 
 ### 📊 GitHub Stats :
-Here's a list of activities I've had since joining Github. I love to explore and contribute to open-source projects. I look for issues daily, try to impact reporting, and investigate answers to WH(What/Why) questions, ideas, and problems.
+I love daily to explore and contribute to open-source projects, report bugs, and investigate answers to WH(What/Why) questions, ideas, and problems.
+
+Here's a list of activities I've had since joining Github. 
 
 ![](https://github-readme-stats.vercel.app/api?username=msudgh&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
