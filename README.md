@@ -7,10 +7,7 @@ Interest in automation, infrastructure, and creating tools that enhance producti
 
 📫 **Connect with me:** Feel free to reach out on **[mgh.space](https://mgh.space)** / **[LinkedIn](https://linkedin.com/in/msudgh)** / **[Medium](https://medium.com/@masoudghorbani)**.
 
-**GitHub stats**
+**GitHub Stats / Top Langs**
 
 ![Masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=msudgh&show_icons=true&border_color=2e4058)
-
-**Top Langs**
-
 ![Masoud's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msudgh&show_icons=true&border_color=2e4058&layout=compact)
