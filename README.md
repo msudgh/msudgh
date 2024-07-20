@@ -9,5 +9,5 @@ Interest in automation, infrastructure, and creating tools that enhance producti
 
 **GitHub Stats / Top Langs**
 
-![Masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=msudgh&show_icons=true&border_color=2e4058)
+![Masoud's stats](https://github-readme-stats.vercel.app/api?username=msudgh&show_icons=true&border_color=2e4058)
 ![Masoud's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msudgh&show_icons=true&border_color=2e4058&layout=compact)
