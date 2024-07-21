@@ -1,9 +1,9 @@
-I’m an indie Senior Software/DevOps Engineer who find myself with building solutions that address everyday challenges.
+I’m an indie Senior Software/DevOps Engineer who find myself building solutions that address everyday challenges.
 
 I code frequently on Github to share my results based on the goals and visions I have in open-source world and concept of sharing.
 
-I have a weekly newsletter that you should check out! In it, I share what's new and cool in the world of software development, stories, lesson learned, stir and more.
-If you’d like to discuss these or anything tech-related, feel free to join and follow me on following platforms. I typically write on my personal blog or Medium when I’m in a writing mood to express more of my thought streams.
+I have a weekly newsletter that you should check out! In it, I share what's new and cool in the world of software development, stories, lessons learned, stir and more.
+If you’d like to discuss these or anything tech-related, feel free to join and follow me on the following platforms.
 
 ⭐️ **List of interest:**
 
@@ -17,7 +17,7 @@ If you’d like to discuss these or anything tech-related, feel free to join and
 📧 **Connect with each other:** 
 
 * Learn more about me on **[mgh.space](https://mgh.space)**
-* Join and read mu recent articles on **[Medium](https://medium.com/@masoudghorbani)**
+* Join and read my recent articles on **[Medium](https://medium.com/@masoudghorbani)**
 * Let's connect and share our experiences on **[LinkedIn](https://linkedin.com/in/msudgh)**
 
 ℹ️ **GitHub Stats / Top Langs**
