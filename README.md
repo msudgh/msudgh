@@ -1,4 +1,4 @@
-🌍 **Connect:** 
+🌍 **Connect** 
 
 * [mgh.space](https://mgh.space)
 * **[Medium](https://medium.com/@masoudghorbani)**
